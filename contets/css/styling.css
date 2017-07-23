@@ -1,0 +1,50 @@
+*   {    
+    border: 1px solid black;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+.facebook {
+    background: white;
+    display: inline;
+    position: absolute;
+    margin-left: 30%;
+}
+header {
+    background-image: url("../photos/bg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    height: 100%;
+    width: 70%;
+    margin: 10px auto;
+}
+.profile-photo {
+    margin-top: 10%;
+    border: 1px solid rgba(255, 255, 0, 0.1);
+    border-radius: 50%;
+    width: 20%;
+}
+h1 {
+    background: white;
+    width: 20%;
+    height: 140%;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 170%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    color: rgba(249, 109, 109, 1);
+}
+.header-browse {
+    width: 30%;
+    background: white;
+    margin-left: 30%;
+}
+p {
+    background: rgba(0, 0, 0, 0.4);
+    margin: 0 auto;
+    width: 50%;
+}
